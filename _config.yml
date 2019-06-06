@@ -1,0 +1,15 @@
+title: Harsh Singhvi # your name (or website title) here
+logo: "/images/E4891611-A4C2-4B65-80A2-BEE483F8007B.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  This website in under construction.
+  <br><br>
+  By the time you can contact me though:-
+  <br><br>
+  <a href="http://linkedin.com/in/harsh-singhvi-658968a1">View My LinkedIn Profile</a> 
+    <a href="https://instagram.com/insomniac_coder?igshid=1m2jur72ucxhf">View My Instagram Profile</a> 
+
+
+
+
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
