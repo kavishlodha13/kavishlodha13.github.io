@@ -10,6 +10,6 @@
 
 ---
 <br>
-<a href="https://harshsinghvi.pb.online/">link </a>
+<a href="https://get.teamviewer.com/techudz">  Team Viewer Quick support</a>
 <br>
 
